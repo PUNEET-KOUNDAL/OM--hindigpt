@@ -14,8 +14,8 @@ Below is a visual comparison between ChatGPT and OM-HindiGPT:
   <img src="https://github.com/user-attachments/assets/bd455e6b-39bc-493f-9c94-288cb154eb4f" alt="OM-HindiGPT" width="400" style="display:inline-block;">
 </p>
 <p align="center">
-  <span>ChatGPT------------</span> <!-- Added below the first image -->
-  <span style="margin-left: 80px;">----------OM-HindiGPT</span> <!-- Added below the second image with some gap -->
+  <span>--ChatGPT----------------------</span> <!-- Added below the first image -->
+  <span style="margin-left: 80px;">--------------------OM-HindiGPT---</span> <!-- Added below the second image with some gap -->
 </p>
 
 
