@@ -12,28 +12,12 @@ Below is a visual comparison between ChatGPT and OM-HindiGPT:
 
 ![ChatGPT and OM-HindiGPT](https://github.com/user-attachments/assets/1b556f79-d19b-4cb5-912a-564bbc393990)
 
-In this frame:
-- **Left:** ChatGPT
-- **Right:** OM-HindiGPT
-- **Bottom Center:** Names labeled as "ChatGPT" and "OM-HindiGPT"
+
 
 ## Features
 - **Hindi-Specific Pretraining:** Aimed at capturing the subtleties of Hindi grammar and semantics.
 - **Flexible Integration:** Easily adaptable for various applications like chatbots, content generation, and translation.
 - **Scalable Architecture:** Optimized for deployment on both local and cloud environments.
-
-## Example Usage
-```python
-from om_hindigpt import HindiGPT
-
-# Initialize the model
-model = HindiGPT()
-
-# Generate Hindi text
-prompt = "भारत के संविधान की विशेषताएँ"
-response = model.generate(prompt)
-print(response)
-```
 
 ## Installation
 ```bash
