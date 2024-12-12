@@ -12,12 +12,17 @@ Below is a visual comparison between ChatGPT and OM-HindiGPT:
 
 
 
-ChatGPT
 <p align="center">
   <img src="https://github.com/user-attachments/assets/66e793f6-9604-4e0c-be07-de3b4793d5e4" alt="ChatGPT" width="400" style="display:inline-block; margin-right: 20px;"> 
-  <img src="https://github.com/user-attachments/assets/bd455e6b-39bc-493f-9c94-288cb154eb4f" alt="OM-HindiGPT" width="400" style="display:inline-block;">
+  <br>
+  <span>ChatGPT</span> <!-- Added below the first image -->
 </p>
-OM-HindiGPT
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bd455e6b-39bc-493f-9c94-288cb154eb4f" alt="OM-HindiGPT" width="400" style="display:inline-block;">
+  <br>
+  <span>OM-HindiGPT</span> <!-- Added below the second image -->
+</p>
+
 
 ## Features
 - **Hindi-Specific Pretraining:** Aimed at capturing the subtleties of Hindi grammar and semantics.
